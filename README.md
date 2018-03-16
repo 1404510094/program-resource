@@ -27,7 +27,7 @@
 ### 编程风格
 * [Google HTML/CSS 编程样式指南](https://tangyouhua.github.io/styleguide/htmlcssguide.html)
 * [Google HJavaScript 编程样式指南:construction_worker:](https://tangyouhua.github.io/styleguide/jsguide.html)
-* PHP编程风格指南：[基础编码标准 PSR-1](https://www.php-fig.org/psr/psr-1/)、[编码风格指南 PSR-2](https://www.php-fig.org/psr/psr-2/)
+* [PHP编程风格指南](program-blog/php-style-guide.md)
 
 ### 工具
 * [SublimeText使用技巧](program-tool/sublimetext.md)
