@@ -34,7 +34,7 @@
 
 ### 工具
 * [SublimeText使用技巧](program-tool/sublimetext.md)
- * [Emmet使用技巧](./tool/emmet.md)
+ * [Emmet使用技巧](program-tool/emmet.md)
 * [微信Web开发工具调试技巧](program-tool/weixin-app-debug.md)
 * HTML/CSS/JavaScript
    * [CodePen](https://codepen.io/)：前端开发者在线工具, HTML/CSS
