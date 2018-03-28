@@ -1,6 +1,9 @@
 # 编程资源，不做大全
 分享编程资源，一起用好资源，用好的资源 **QQ(50872495)**
 
+> “Knowing is not enough, we must apply. Willing is not enough, we must do.”
+> --Bruce Lee
+
 * [日常用](#日常用)
    * [搜索](#搜索)
    * [编程风格](#编程风格)
